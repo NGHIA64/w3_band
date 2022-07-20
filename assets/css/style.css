@@ -16,6 +16,7 @@
 4. Kiểu dáng (kiểu chữ, hình tròn, hình vuông,..)
  */
 html{
+    scroll-behavior: smooth;
     font-family: Helvetica; 
     /* thẻ html để các thẻ có chữ sẽ có css này */
 }
